@@ -29,7 +29,9 @@
 ![Kanban](Kanban_board.png)
 ![Sprint](Sprint_board.png)
 
+```
 Если всё отработало в рамках ожидания - выгрузить схемы workflow для импорта в XML. Файлы с workflow приложить к решению задания.
+```
 ![Bug](./Bug.xml)
 ![Simple](./Simple.xml)
 ---
